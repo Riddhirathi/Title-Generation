@@ -19,7 +19,7 @@ The main objective of this project is to generate meaningful video titles given 
 - **Langdetect**: For filtering out non-English video titles from the dataset.
 - **Pandas**: Data manipulation library for handling YouTube video datasets.
 - **NumPy**: For numerical operations on sequences.
-- **Dataset** - [https://drive.google.com/drive/folders/1fP9RY7upt1mSyPtr2rigpicVZAcOKgiU?usp=sharing](Link)
+- **Dataset** - [Link](https://drive.google.com/drive/folders/1fP9RY7upt1mSyPtr2rigpicVZAcOKgiU?usp=sharing)
 
 ## How It Works
 1. **Data Preprocessing**: Titles are cleaned, tokenized, and converted into padded sequences. Non-English titles are filtered out using the `langdetect` library.
